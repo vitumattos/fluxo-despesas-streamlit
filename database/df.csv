@@ -1,0 +1,93 @@
+;Ordem;Descrição;Valor;Categoria;Data;Fixo;Credito;_mes
+0;DESPESA;Compra Steam;45.0;Lazer;2023-12-26;False;False;12.0
+1;DESPESA;subway;46.0;Alimentação;2023-12-22;False;True;
+2;DESPESA;YT premio;24.99;Alimentação;2023-12-22;True;True;
+3;DESPESA;Aposta;100.0;Investimento;2023-12-22;True;False;12.0
+4;DESPESA;Academia;79.9;Skin;2023-12-21;False;True;
+5;DESPESA;Lanche;38.75;Alimentação;2023-12-21;False;True;
+6;DESPESA;Compra Amazon;125.22;Outros;2023-12-18;False;True;12.0
+7;DESPESA;Compra Steam;44.99;Lazer;2023-12-15;False;True;12.0
+8;DESPESA;Gympass;7.0;Skin;2023-12-15;True;True;12.0
+9;DESPESA;Compra casa;16.0;Casa;2023-12-13;True;True;12.0
+10;DESPESA;Corte Cabelo;25.0;Skin;2023-12-12;True;False;12.0
+11;DESPESA;Compra casa;31.0;Casa;2023-12-12;True;False;12.0
+12;DESPESA;Compra Steam;107.22;Lazer;2023-12-11;False;True;12.0
+13;DESPESA;Compra casa;50.0;Casa;2023-12-11;True;False;12.0
+14;DESPESA;Movimentação nubank;800.0;Outros;2023-12-11;True;False;12.0
+15;DESPESA;Xbox live;29.99;Lazer;2023-12-06;False;True;12.0
+16;DESPESA;Saque;200.0;Outros;2023-12-05;False;False;12.0
+17;DESPESA;Compra casa;3.5;Casa;2023-12-05;True;False;12.0
+18;DESPESA;Pix mãe;150.0;Casa;2023-12-04;True;False;12.0
+19;DESPESA;Seguro Carro;149.0;Transporte;2023-12-04;True;False;12.0
+20;DESPESA;Açai;45.0;Alimentação;2023-12-02;False;True;12.0
+21;RECEITA;Renda FN;5666.98;Salário;2023-12-01;True;False;12.0
+22;DESPESA;Emporio Naval;2.99;Outros;2023-12-01;False;True;12.0
+23;DESPESA;YT Premio;24.9;Lazer;2023-12-01;False;True;12.0
+24;DESPESA;Cartão Nu;584.78;Outros;2023-12-01;True;False;12.0
+25;DESPESA;Cartão BB;628.7;Outros;2023-12-01;True;False;12.0
+26;DESPESA;Aposta;50.0;Investimento;2023-12-01;True;False;12.0
+27;DESPESA;Aporte Mensal;1080.0;Investimento;2023-12-01;True;False;12.0
+28;DESPESA;Taxa;11.8;Outros;2023-12-01;False;False;12.0
+29;RECEITA;Cambio;10.0;Comissão;2023-11-29;False;False;11.0
+30;DESPESA;Pix mãe;25.0;Casa;2023-11-27;True;False;11.0
+31;DESPESA;Compra casa;10.8;Casa;2023-11-23;False;True;11.0
+32;DESPESA;Fast-food;22.8;Alimentação;2023-11-16;False;True;11.0
+33;DESPESA;MetroRJ;13.8;Transporte;2023-11-16;False;True;11.0
+34;DESPESA;Skin care;124.08;Skin;2023-11-16;False;True;11.0
+35;DESPESA;Date Elisa;138.6;Outros;2023-11-15;False;True;11.0
+36;DESPESA;Gasolina;100.0;Transporte;2023-11-15;True;True;11.0
+37;DESPESA;Compra casa;12.0;Casa;2023-11-12;False;False;11.0
+38;DESPESA;Corte de cabelo;20.0;Skin;2023-11-10;True;False;11.0
+39;DESPESA;Gasolina;100.0;Transporte;2023-11-08;True;True;11.0
+40;DESPESA;Compra casa;6.0;Casa;2023-11-07;False;True;11.0
+41;DESPESA;Fast-food;10.0;Alimentação;2023-11-07;False;False;11.0
+42;DESPESA;Aposta;30.0;Investimento;2023-11-04;False;False;11.0
+43;DESPESA;Pix mãe;100.0;Casa;2023-11-04;True;False;11.0
+44;DESPESA;Pix pai;100.0;Casa;2023-11-04;True;False;11.0
+45;DESPESA;Aporte mensal;600.0;Investimento;2023-11-03;True;False;11.0
+46;DESPESA;Bike itau;5.9;Outros;2023-11-03;False;True;11.0
+47;DESPESA;Cartão Nu;511.79;Compras;2023-11-03;False;True;11.0
+48;DESPESA;Cartão BB;705.0;Outros;2023-11-03;True;False;11.0
+49;DESPESA;Taxa;0.31;Outros;2023-11-01;True;False0;11.0
+50;DESPESA;Date Ester;15.0;Outros;2023-11-01;False;True;11.0
+51;RECEITA;Uber;17.0;Transporte;2023-11-01;False;False;11.0
+52;DESPESA;Peça do carro;35.0;Transporte;2023-11-01;False;True;11.0
+53;DESPESA;Seguro carro;148.99;Transporte;2023-11-01;True;False;11.0
+54;DESPESA;Emporio naval;7.9;Outros;2023-11-01;False;True;11.0
+55;RECEITA;Renda FN;2527.79;Salário;2023-11-01;True;False;11.0
+56;RECEITA;Pix Lucas;10.0;Comissão;2023-10-29;False;False;10.0
+57;DESPESA;Cinema Ester;75.61;Outros;2023-10-29;False;False;10.0
+58;DESPESA;Corte de cabelo;25.0;Skin;2023-10-27;True;False;10.0
+59;DESPESA;Cabelo Ester;30.0;Outros;2023-10-26;False;False;10.0
+60;RECEITA;Proventos;60.53;Comissão;2023-10-25;False;False;10.0
+61;RECEITA;Uber;7.0;Transporte;2023-10-25;False;False;10.0
+62;DESPESA;Academia;94.9;Skin;2023-10-23;True;True;10.0
+63;DESPESA;Gasolina;100.0;Transporte;2023-10-22;True;True;10.0
+64;DESPESA;YT Premium;24.9;Outros;2023-10-22;True;True;10.0
+65;DESPESA;Motel Eliza;105.95;Outros;2023-10-21;False;True;10.0
+66;DESPESA;Internet;270.0;Casa;2023-10-21;False;True;10.0
+67;DESPESA;Vodka da Ester;15.0;Outros;2023-10-19;False;False;10.0
+68;DESPESA;Fast-food itaoca;24.5;Alimentação;2023-10-16;False;False;10.0
+69;DESPESA;Corte de cabelo;10.0;Skin;2023-10-16;True;False;10.0
+70;DESPESA;Borracheiro;10.0;Transporte;2023-10-13;False;False;10.0
+71;DESPESA;Fast-food itaoca;11.0;Alimentação;2023-10-13;False;True;10.0
+72;RECEITA;REP VI itaoca;282.9;Comissão;2023-10-13;False;False;10.0
+73;RECEITA;Uber;5.0;Transporte;2023-10-12;False;False;10.0
+74;DESPESA;Assinatura Crunchyroll;10.0;Outros;2023-10-12;True;False;10.0
+75;DESPESA;Gasolina;100.0;Transporte;2023-10-12;True;True;10.0
+76;RECEITA;Proventos;54.07;Comissão;2023-10-10;False;False;10.0
+77;DESPESA;Saque;10.0;Outros;2023-10-10;True;False;10.0
+78;DESPESA;Uma noite Ester;114.41;Outros;2023-10-08;False;True;10.0
+79;DESPESA;Borracheiro;30.0;Transporte;2023-10-07;False;False;10.0
+80;DESPESA;Lanche ester;39.9;Alimentação;2023-10-06;False;True;10.0
+81;DESPESA;Seguro carro;149.0;Transporte;2023-10-05;True;False;10.0
+82;RECEITA;Uber;15.0;Transporte;2023-10-05;False;False;10.0
+83;DESPESA;Gasolina;100.0;Transporte;2023-10-05;True;True;10.0
+84;DESPESA;Pix Belchior;22.0;Compras;2023-10-05;False;False;10.0
+85;DESPESA;Pix mãe;100.0;Casa;2023-10-05;True;False;10.0
+86;DESPESA;Pix ester;25.0;Outros;2023-10-03;False;False;10.0
+87;DESPESA;Corte de cabelo;5.0;Skin;2023-10-03;True;False;10.0
+88;RECEITA;Renda FN;2380.67;Salário;2023-10-02;True;False;10.0
+89;DESPESA;Fatura mês 9;1168.22;Outros;2023-10-02;False;False;10.0
+90;DESPESA;Aporte mensal;600.0;Investimento;2023-10-02;True;False;10.0
+91;DESPESA;Cartão Nú;522.92;Outros;2023-10-01;False;True;10.0
